@@ -1,0 +1,499 @@
+[
+  {
+    "id": "txn_0001",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1786200929698,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0000",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1786177772557,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0002",
+    "merchant": "Staples",
+    "amountCents": 10666,
+    "timestampEpochMillis": 1786141488510,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0064",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1786128526367,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0063",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1786128286367,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0003",
+    "merchant": "LinkedIn Ads",
+    "amountCents": 38206,
+    "timestampEpochMillis": 1786124287052,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0062",
+    "merchant": "Sweetgreen",
+    "amountCents": 41000,
+    "timestampEpochMillis": 1786041886367,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0004",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1785961084781,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0069",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1785957406367,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0068",
+    "merchant": "Notion Team Plan",
+    "amountCents": 9600,
+    "timestampEpochMillis": 1785956926367,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0067",
+    "merchant": "Amazon Web Services",
+    "amountCents": 65707,
+    "timestampEpochMillis": 1785956446367,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0066",
+    "merchant": "Amazon Web Services",
+    "amountCents": 82981,
+    "timestampEpochMillis": 1785955966367,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0065",
+    "merchant": "Amazon Web Services",
+    "amountCents": 51447,
+    "timestampEpochMillis": 1785955486367,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0005",
+    "merchant": "Google Ads",
+    "amountCents": 47895,
+    "timestampEpochMillis": 1785882345560,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0007",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1785847657257,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0006",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1785831748243,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0070",
+    "merchant": "Apex Industrial Equipment Co",
+    "amountCents": 340000,
+    "timestampEpochMillis": 1785782686367,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0010",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1785769705315,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0008",
+    "merchant": "Sweetgreen",
+    "amountCents": 1672,
+    "timestampEpochMillis": 1785761818262,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0009",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1785737509412,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0011",
+    "merchant": "Marriott Hotels",
+    "amountCents": 30943,
+    "timestampEpochMillis": 1785660782978,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0012",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1785634623404,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0015",
+    "merchant": "LinkedIn Ads",
+    "amountCents": 63700,
+    "timestampEpochMillis": 1785561348536,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0013",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1785559080343,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0014",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1785525511762,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0016",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1785517335923,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0018",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1785509930185,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0017",
+    "merchant": "Staples",
+    "amountCents": 6051,
+    "timestampEpochMillis": 1785484645373,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0020",
+    "merchant": "Notion Team Plan",
+    "amountCents": 9600,
+    "timestampEpochMillis": 1785408966810,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0019",
+    "merchant": "Delta Air Lines",
+    "amountCents": 44323,
+    "timestampEpochMillis": 1785388119421,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0021",
+    "merchant": "Delta Air Lines",
+    "amountCents": 53266,
+    "timestampEpochMillis": 1785341102885,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0023",
+    "merchant": "Deloitte Consulting",
+    "amountCents": 250000,
+    "timestampEpochMillis": 1785288642852,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0022",
+    "merchant": "LinkedIn Ads",
+    "amountCents": 49924,
+    "timestampEpochMillis": 1785278995327,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0025",
+    "merchant": "Deloitte Consulting",
+    "amountCents": 250000,
+    "timestampEpochMillis": 1785220761876,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0024",
+    "merchant": "Delta Air Lines",
+    "amountCents": 63623,
+    "timestampEpochMillis": 1785178387054,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0026",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1785135546976,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0028",
+    "merchant": "DoorDash",
+    "amountCents": 4513,
+    "timestampEpochMillis": 1785062948116,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0027",
+    "merchant": "Delta Air Lines",
+    "amountCents": 30383,
+    "timestampEpochMillis": 1785015360750,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0030",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1784986345503,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0031",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1784932746060,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0029",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1784918804250,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0033",
+    "merchant": "Sweetgreen",
+    "amountCents": 1689,
+    "timestampEpochMillis": 1784900119795,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0032",
+    "merchant": "Deloitte Consulting",
+    "amountCents": 250000,
+    "timestampEpochMillis": 1784840365904,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0034",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1784825962515,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0036",
+    "merchant": "Notion Team Plan",
+    "amountCents": 9600,
+    "timestampEpochMillis": 1784775625016,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0035",
+    "merchant": "Marriott Hotels",
+    "amountCents": 24851,
+    "timestampEpochMillis": 1784748071985,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0039",
+    "merchant": "Marriott Hotels",
+    "amountCents": 46503,
+    "timestampEpochMillis": 1784730511493,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0038",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1784671633645,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0037",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1784665907577,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0041",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1784644514088,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0040",
+    "merchant": "DoorDash",
+    "amountCents": 3879,
+    "timestampEpochMillis": 1784623673697,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0042",
+    "merchant": "Delta Air Lines",
+    "amountCents": 43652,
+    "timestampEpochMillis": 1784598588602,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0043",
+    "merchant": "Deloitte Consulting",
+    "amountCents": 250000,
+    "timestampEpochMillis": 1784537734888,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0044",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1784472404149,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0046",
+    "merchant": "Google Ads",
+    "amountCents": 84807,
+    "timestampEpochMillis": 1784466172628,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0045",
+    "merchant": "Marriott Hotels",
+    "amountCents": 38258,
+    "timestampEpochMillis": 1784400928018,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0048",
+    "merchant": "DoorDash",
+    "amountCents": 2002,
+    "timestampEpochMillis": 1784356778878,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0047",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1784329103503,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0050",
+    "merchant": "DoorDash",
+    "amountCents": 5449,
+    "timestampEpochMillis": 1784272612520,
+    "cardLastFour": "cardLastFour7793"
+  },
+  {
+    "id": "txn_0049",
+    "merchant": "Amazon Web Services",
+    "amountCents": 45593,
+    "timestampEpochMillis": 1784265167914,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0051",
+    "merchant": "Amazon Web Services",
+    "amountCents": 52044,
+    "timestampEpochMillis": 1784151337008,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0052",
+    "merchant": "Figma",
+    "amountCents": 4500,
+    "timestampEpochMillis": 1784131796821,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0055",
+    "merchant": "Marriott Hotels",
+    "amountCents": 37771,
+    "timestampEpochMillis": 1784026259294,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0053",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1783990895047,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0054",
+    "merchant": "Google Ads",
+    "amountCents": 44861,
+    "timestampEpochMillis": 1783983863191,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0056",
+    "merchant": "Zoom",
+    "amountCents": 15000,
+    "timestampEpochMillis": 1783941288329,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0057",
+    "merchant": "Deloitte Consulting",
+    "amountCents": 250000,
+    "timestampEpochMillis": 1783918166716,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0058",
+    "merchant": "WeWork",
+    "amountCents": 55000,
+    "timestampEpochMillis": 1783907688923,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0059",
+    "merchant": "Slack",
+    "amountCents": 12000,
+    "timestampEpochMillis": 1783836509291,
+    "cardLastFour": "cardLastFour4821"
+  },
+  {
+    "id": "txn_0060",
+    "merchant": "LinkedIn Ads",
+    "amountCents": 45466,
+    "timestampEpochMillis": 1783716507272,
+    "cardLastFour": "cardLastFour9910"
+  },
+  {
+    "id": "txn_0061",
+    "merchant": "Amazon Web Services",
+    "amountCents": 43550,
+    "timestampEpochMillis": 1783624381162,
+    "cardLastFour": "cardLastFour4821"
+  }
+]
