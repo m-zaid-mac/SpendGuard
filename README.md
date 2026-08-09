@@ -71,3 +71,11 @@ independent of Android/Room/Compose.
 
 Kotlin · Jetpack Compose · Material3 · MVVM · StateFlow/Flow · Coroutines ·
 Room · Navigation Compose · AndroidX Biometric · kotlinx.serialization · JUnit
+
+## Author
+
+**Mohammad Zaid**
+
+- GitHub: [@m-zaid-mac](https://github.com/m-zaid-mac)
+- LinkedIn: [mohammad-zaid](https://www.linkedin.com/in/mohammad-zaid-6a360b276/)
+- Email: zaid.m@northeastern.edu
